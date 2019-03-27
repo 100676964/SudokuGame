@@ -332,7 +332,7 @@ public class GameUI extends Thread
 								// TODO Auto-generated catch block
 								e.printStackTrace();
 							}
-						if(!new Generate().toString(game).contains("0")) 
+						if(!new Generate().toString(game).contains("0") && !keyboard.Conflict) 
 						{
 							Loading = true;
 							keyboard.Hover = 0;
