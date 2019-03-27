@@ -3,13 +3,13 @@ To play the game, please download Sudoku.jar to your computer and run the jar, i
 NOTE(YOU MUST INSTALL THE LATEST VERSION OF JAVA JDK)
 
 
-Instructions
+# Instructions
 
-To start a new game, click the new game button.
-Choose the difficulty for the Sudoku puzzle. Easy, medium, or hard. The game will generate the puzzle for you.
-Use your keyboard or the input pad on the right to input numbers into the puzzle.
-Use the “save game” button to save the current puzzle with your progress to be continued later.
-Use the “clear all” button to clear all the numbers entered in the puzzle.
-Use the “quit to main” button to go back to the main menu.
-At the main menu, you can use the “load game” button to load a previously saved game.
-Use the “quit game” button to exit the application.
+1. To start a new game, click the new game button.
+2. Choose the difficulty for the Sudoku puzzle. Easy, medium, or hard. The game will generate the puzzle for you.
+3. Use your keyboard or the input pad on the right to input numbers into the puzzle.
+4. Use the “save game” button to save the current puzzle with your progress to be continued later.
+5. Use the “clear all” button to clear all the numbers entered in the puzzle.
+6. Use the “quit to main” button to go back to the main menu.
+7. At the main menu, you can use the “load game” button to load a previously saved game.
+8. Use the “quit game” button to exit the application.
