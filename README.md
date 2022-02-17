@@ -1,6 +1,5 @@
 # SudokuGame
 1. To play the game, please download Sudoku.jar to your computer and run the jar. 
-2. If you want to save and load games,you need to have C drive, things might go wrong if not using Windows.
 3. NOTE (YOU MUST INSTALL THE LATEST VERSION OF JDK) Link 
 https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html
 
